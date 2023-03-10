@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Lee\OneDrive\Documents\GitHub\EX7\CSCI4830-AOP-0318-Buhrmann\.metadata\.plugins\org.eclipse.jdt.core
+623334914.index
+440805497.index
